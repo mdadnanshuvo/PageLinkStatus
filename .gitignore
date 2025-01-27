@@ -1,0 +1,40 @@
+# Virtual Environment directories
+venv/
+env/
+
+# Python bytecode and cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE specific files (optional, if you use certain IDEs)
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Distribution / Packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.tar.gz
+
+# Pytest cache
+.cache/
+
+# .env file for environment variables (if you use it for sensitive information)
+.env
+
+# Coverage reports
+.coverage
+*.coveragerc
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
